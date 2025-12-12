@@ -15,15 +15,15 @@ I’m an undergraduate Computer Science student with a strong interest in data a
 
 ### 🛠 Tools & Technologies I Use
 
-*Languages & Analytics:*
+**Languages & Analytics:**
 - Python (Pandas, NumPy)
 - SQL (PostgreSQL, MySQL)
 - Excel (PivotTables, Functions)
 
-*Visualization & BI:*
+**Visualization & BI:**
 - Power BI
 - Tableau
 
-*Other Tools:*
+**Other Tools:**
 - Jupyter Notebook
 - VS Code
