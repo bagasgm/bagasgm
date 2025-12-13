@@ -1,7 +1,7 @@
 ## Hi there, I'm Bagas 👋
 ### 👤 Who am I?
 
-I’m an undergraduate Computer Science student with a strong interest in data analysis, business intelligence, and data-driven decision making. I enjoy working with real datasets, exploring trends, and turning raw data into meaningful insights through analytics and visualization.
+I’m an Computer Science student with a strong interest in data analysis, business intelligence, and data-driven decision making. I enjoy working with real datasets, exploring trends, and turning raw data into meaningful insights through analytics and visualization.
 
 ---
 
