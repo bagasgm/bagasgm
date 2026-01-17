@@ -15,9 +15,9 @@ I’m an Computer Science student with a strong interest in data analysis, busin
 ### 🛠 Tools & Technologies I Use
 
 **Languages & Analytics:**
-- Python (Pandas, NumPy)
-- SQL (PostgreSQL, MySQL)
-- Excel (PivotTables, Functions)
+- Python
+- SQL
+- Excel
 
 **Visualization & BI:**
 - Power BI
